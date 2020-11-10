@@ -18,7 +18,7 @@ function Body(props) {
     }
 
     const items = props.filteredItems.map(item => {
-        return <Link onClick={callOnClick} to="/item"><p id={item.itemId} className="filtered">{item.item.name}</p></Link>
+        return <Link onClick={callOnClick} to="/FortniteApiCall/item"><p id={item.itemId} className="filtered">{item.item.name}</p></Link>
     })
 
     return (
@@ -30,7 +30,7 @@ function Body(props) {
                 {items}
             </div>
             <p className="or">or find all new items in</p>
-            <Link className="link" to="/itemsList">Items List</Link>
+            <Link className="link" to="/FortniteApiCall/itemsList">Items List</Link>
             <img className="ghostrider" alt="ghostrider" src={Ghostrider}></img>
             <img className="character" alt="character" src={Character}></img>
         </div>

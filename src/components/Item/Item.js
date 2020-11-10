@@ -21,7 +21,7 @@ function Item(props) {
 
     return(
         <div className="item_details_div">
-            <Link to="/itemsList"><h2 className="back">&#x21a9; Go Back</h2></Link>
+            <Link to="/FortniteApiCall/itemsList"><h2 className="back">&#x21a9; Go Back</h2></Link>
             <h1 className="item_heading">{props.name}</h1>
             <h2 className="item_desc">{props.desc}</h2>
             <nobr className="item_rarity_type">Rarity: <nobr style={{color: color}}>{props.rarity}</nobr></nobr>

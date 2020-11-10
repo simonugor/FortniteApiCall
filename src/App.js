@@ -64,10 +64,10 @@ function App() {
             <Route exact path="/FortniteApiCall/">
               <Body itemClick={itemClick} filteredItems={filteredItems} onChange={onChange} />
             </Route>
-            <Route exact path="/itemsList">
+            <Route exact path="/FortniteApiCall/itemsList">
               <ItemsList itemClick={itemClick} items={items} />
             </Route>
-            <Route exact path="/item">
+            <Route exact path="/FortniteApiCall/item">
               <Item 
                 name={itemName}
                 desc={itemDesc}
