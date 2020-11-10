@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/FortniteApiCall/static/css/main.a9b6c9a9.chunk.css",
+    "main.js": "/FortniteApiCall/static/js/main.bf92296f.chunk.js",
+    "main.js.map": "/FortniteApiCall/static/js/main.bf92296f.chunk.js.map",
+    "runtime-main.js": "/FortniteApiCall/static/js/runtime-main.a1f95fdf.js",
+    "runtime-main.js.map": "/FortniteApiCall/static/js/runtime-main.a1f95fdf.js.map",
+    "static/js/2.f67b209a.chunk.js": "/FortniteApiCall/static/js/2.f67b209a.chunk.js",
+    "static/js/2.f67b209a.chunk.js.map": "/FortniteApiCall/static/js/2.f67b209a.chunk.js.map",
+    "static/js/3.df995194.chunk.js": "/FortniteApiCall/static/js/3.df995194.chunk.js",
+    "static/js/3.df995194.chunk.js.map": "/FortniteApiCall/static/js/3.df995194.chunk.js.map",
+    "index.html": "/FortniteApiCall/index.html",
+    "static/css/main.a9b6c9a9.chunk.css.map": "/FortniteApiCall/static/css/main.a9b6c9a9.chunk.css.map",
+    "static/js/2.f67b209a.chunk.js.LICENSE.txt": "/FortniteApiCall/static/js/2.f67b209a.chunk.js.LICENSE.txt",
+    "static/media/fortnite1.6bf3442c.png": "/FortniteApiCall/static/media/fortnite1.6bf3442c.png",
+    "static/media/fortnite2.13ce957b.png": "/FortniteApiCall/static/media/fortnite2.13ce957b.png",
+    "static/media/index.css": "/FortniteApiCall/static/media/project1bold.c67d0304.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a1f95fdf.js",
+    "static/js/2.f67b209a.chunk.js",
+    "static/css/main.a9b6c9a9.chunk.css",
+    "static/js/main.bf92296f.chunk.js"
+  ]
+}
