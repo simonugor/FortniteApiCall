@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/FortniteApiCall/static/css/main.a9b6c9a9.chunk.css",
-    "main.js": "/FortniteApiCall/static/js/main.f871d89c.chunk.js",
-    "main.js.map": "/FortniteApiCall/static/js/main.f871d89c.chunk.js.map",
+    "main.js": "/FortniteApiCall/static/js/main.1ee84be5.chunk.js",
+    "main.js.map": "/FortniteApiCall/static/js/main.1ee84be5.chunk.js.map",
     "runtime-main.js": "/FortniteApiCall/static/js/runtime-main.a1f95fdf.js",
     "runtime-main.js.map": "/FortniteApiCall/static/js/runtime-main.a1f95fdf.js.map",
     "static/js/2.f67b209a.chunk.js": "/FortniteApiCall/static/js/2.f67b209a.chunk.js",
@@ -20,6 +20,6 @@
     "static/js/runtime-main.a1f95fdf.js",
     "static/js/2.f67b209a.chunk.js",
     "static/css/main.a9b6c9a9.chunk.css",
-    "static/js/main.f871d89c.chunk.js"
+    "static/js/main.1ee84be5.chunk.js"
   ]
 }
