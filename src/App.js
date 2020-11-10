@@ -61,7 +61,7 @@ function App() {
       <Router>
         <div className="app_div">
           <Switch>
-            <Route exact path="/">
+            <Route exact path="/FortniteApiCall/">
               <Body itemClick={itemClick} filteredItems={filteredItems} onChange={onChange} />
             </Route>
             <Route exact path="/itemsList">
