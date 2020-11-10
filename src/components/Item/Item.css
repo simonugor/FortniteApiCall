@@ -1,0 +1,24 @@
+.item_details_div {
+    position: relative;
+    top: 3vh;
+    text-align: center;
+}
+
+.item_heading {
+    font-family: myFontBold;
+    font-size: 7vh;
+    margin-bottom: 1vh;
+}
+
+.item_desc {
+    margin-bottom: 2vh;
+}
+
+.item_rarity_type {
+    margin: 1vh;
+    font-size: 2.5vh;
+}
+
+.item_img {
+    width: 35vw;
+}
