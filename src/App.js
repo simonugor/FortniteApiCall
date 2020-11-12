@@ -3,6 +3,7 @@ import React, { useEffect, useState } from "react"
 import ItemsList from "./components/ItemsList/ItemsList"
 import Body from "./components/Body/Body"
 import Item from "./components/Item/Item"
+import Loading from "./components/Loading/Loading"
 //importing React Router
 import { BrowserRouter as Router, Switch, Route } from "react-router-dom"
 
@@ -81,7 +82,7 @@ function App() {
       </Router>
     )
   } else {
-    return <p>Loading</p>
+    return <Loading />
   }
 }
 
